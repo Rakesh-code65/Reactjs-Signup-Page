@@ -1,17 +1,19 @@
 
+import { AppBar } from "@mui/material"
 import Signup  from "./Signup"
 
 
 function App() {
  
   return (
-    <>
-      <div style={{backgroundColor:'white'}}>
+    
+      <>
+        <AppBar></AppBar>
       <Signup></Signup>
 
-        </div>    
+        </>    
       
-    </>
+    
   )
 }
 

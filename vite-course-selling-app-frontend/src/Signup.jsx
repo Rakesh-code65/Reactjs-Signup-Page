@@ -5,11 +5,10 @@ import { Typography } from '@mui/material';
 
 function Signup() {
    
-    return <div>
+    return <div >
+        
           <center>
-            <div style={{
-                marginTop: 200,
-                marginBottom: 20}}>
+            <div style={{paddingTop:160,marginBottom:20}}>
                <Typography variant='h6'>Welcome to Vite-course-era
                 </Typography> 
             </div>
