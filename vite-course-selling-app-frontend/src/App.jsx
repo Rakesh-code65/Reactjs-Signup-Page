@@ -6,7 +6,7 @@ function App() {
  
   return (
     <>
-      <div style={{backgroundColor:'lightgrey'}}>
+      <div style={{backgroundColor:'white'}}>
       <Signup></Signup>
 
         </div>    
